@@ -1,3 +1,3 @@
 # Arkham..
 test dex.
-test cex.
+test cex..
